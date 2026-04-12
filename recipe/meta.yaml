@@ -1,6 +1,6 @@
 {% set name = "perl-version" %}
-{% set version = "0.9933" %}
-{% set sha256 = "dc07d9388ca3d3f67146312904bcdb35fe416bb30056158f80df3281a94fae58" %}
+{% set version = "0.9934" %}
+{% set sha256 = "9a782d3534c486393e2b190151f6ed64a5083fd76fa142915ae094eb1cc99c04" %}
 
 package:
   name: {{ name }}
